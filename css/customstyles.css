@@ -1,0 +1,112 @@
+body {
+  background: url("../img/hintergrund-edit.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #CCCCCC;
+}
+
+.menu-element {
+    font-family: "Patua One", Georgia, serif;
+    font-size: 5vmin;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+    height: 44vmin;
+    line-height: 44vmin;
+    width: 44vmin;
+    margin: 2vmin;
+    background-color: #005f75;
+    color: #FFFFFF;
+}
+.main-menu-wrapper{
+    width: 100vmin;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: "Patua One", Georgia, serif;
+    font-weight: bold;
+    font-size: 10vmin;
+    text-align: center;
+}
+
+.circle-start-button{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+}
+
+.landing-menu-wrapper{
+    min-width: 70vw;
+    text-align: center;
+}
+
+.language-wrapper{
+    text-align:center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 10vh;
+}
+
+.language-wrapper a{
+    width: 25vw;
+    height: 10vh;
+    line-height: 10vh;
+    background-color: #CCCCCC;
+}
+
+.search-wrapper{
+    top: 15vh;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.search-wrapper h1 {
+    text-align: left;
+    font-family: "Patua One", Georgia, serif;
+    color: #FFFFFF;
+}
+
+.search-wrapper input{
+    height: 8vh;
+    font-size: 3vmin;
+}
+.search-wrapper label{
+    font-size: 2.5vh;
+    color: #FFFFFF;
+    font-family: 'Titillium Web', sans-serif;
+}
+.search-button {
+    height: 8vh;
+    line-height: 8vh;
+    vertical-align: middle;
+    font-size: 3vmin;
+    color: #FFFFFF;
+    font-family: 'Titillium Web', sans-serif;
+}
+.article-title{
+    color: #FFFFFF;
+}
+.tabs{
+    width: 100%;
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+}
+.tab-title a{
+    background-color: #26a1bd;
+}
+.article-menu {
+    font-family: 'Titillium Web', sans-serif;
+    margin: 0;
+    background-color: #26a1bd;
+}
+
+.tabs-content{
+    width: 60vw;
+    height: 800px;
+    margin: 0 auto;
+    background-color: #005f75;
+}

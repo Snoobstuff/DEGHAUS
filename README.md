@@ -8,6 +8,7 @@ TODO:
     - back arrow (javascript?)
   - Landing page (index.html)
     - change button design
+    - Add flag designs
   - Design project page "Das Project", fill with info
   - Article-page:
     - Design tabs, content area, prev/next buttons
@@ -17,3 +18,7 @@ TODO:
     - functional map (javascript)
   - Main menu
     - Fix scrollbar jumping
+  - Accessibility
+    - Check alt's for elements
+    - tab-index
+    - navigational tags
