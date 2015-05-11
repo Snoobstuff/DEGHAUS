@@ -50,7 +50,6 @@ h1 {
     bottom: 0;
     width: 100%;
     height: 10vh;
-    background-color: #26a1bd;
     
 }
 
@@ -59,8 +58,16 @@ h1 {
     height: 10vh;
     line-height: 10vh;
     background-color: #CCCCCC;
+    padding: 0.5em 1.5em;
+  	color: #005f75;
+  	font-size: 3vmin;
 }
 
+.language-wrapper a:hover{
+	background-color: #005f75;
+	color: #fff;
+	}
+	
 .search-wrapper{
     top: 15vh;
     font-family: 'Titillium Web', sans-serif;
