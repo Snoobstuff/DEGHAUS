@@ -139,3 +139,10 @@ h1 {
 	padding: 1em;
 	 font-family: 'Titillium Web', sans-serif;
 }
+
+@media only screen and (max-width:1333px){ 
+.tab-title a{
+	border-top-right-radius: 0px;
+	border-top-left-radius: 0px;
+}
+}
