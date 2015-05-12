@@ -8,6 +8,14 @@ body {
   
 }
 
+.back-arrow{
+margin-top: 1em;
+margin-left: 3%;
+float: left;
+
+}
+
+
 .menu-element {
     font-family: "Patua One", Georgia, serif;
     font-size: 5vmin;
@@ -20,6 +28,9 @@ body {
     margin: 2vmin;
     background-color: #005f75;
     color: #FFFFFF;
+}
+a.menu-element:hover{
+color: #002f3a;
 }
 .main-menu-wrapper{
     width: 100vmin;
